@@ -1,0 +1,2 @@
+# ResourceManagerRTS
+ResourceManagerRTS creates a graph from a file "resource.txt" which contains the resources and the resource they depend on. It displays a current view of the graph with a adjacency list representation and also will display a list of each vertex and wheter it is usable or not even if the vertex is deleted. This program allows to delete a vertex during run and insert a link between two vertices.
